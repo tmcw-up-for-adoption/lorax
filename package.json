@@ -1,0 +1,12 @@
+{
+  "author": "Tom MacWright <tom@macwright.org> (http://macwright.org/)",
+  "name": "lorax",
+  "description": "a library for parallax scrolling in modestmaps",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tmcw/lorax.git"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

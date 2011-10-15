@@ -1,0 +1,24 @@
+h1 {
+  font-family: 'Just Me Again Down Here', cursive;
+  line-height:180px;
+  font-size:170px;
+}
+
+div.description {
+  background:#fff;
+  border:1px solid #000;
+  width:250px;
+  padding:25px;
+  position:absolute;
+  left:20px;
+  top:20px;
+  z-index:500;
+}
+
+#map {
+  position:absolute;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
