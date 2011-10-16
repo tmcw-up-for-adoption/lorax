@@ -1,7 +1,7 @@
 # lorax
 
 Lorax is a library for parallax maps with [modestmaps](http://github.com/stamen/modestmaps-js).
-It uses [TileJSON](http://github.com/mapbox/tilejson-spec) for map configuration.
+It uses [TileJSON](http://github.com/mapbox/tilejson) for map configuration.
 
 ## Usage:
 
