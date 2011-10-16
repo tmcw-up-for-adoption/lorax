@@ -1,3 +1,18 @@
+a {
+  color: #00afff;
+}
+a:hover {
+  color:#5B9726;
+}
+
+body {
+  font: 13px/20px "Georgia" serif;
+}
+
+p {
+  padding:5px 0;
+}
+
 h1 {
   font-family: 'Just Me Again Down Here', cursive;
   line-height:180px;
